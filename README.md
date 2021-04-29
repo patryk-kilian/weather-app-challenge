@@ -2,7 +2,7 @@
 
 Weather App built with React and OpenWeatherMap API
 
-Check out the [deployed site]()
+Check out the [deployed site](https://patryk-kilian.github.io/weather-app-challenge/)
 
 ## Running locally
 

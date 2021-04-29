@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/weather-app-challenge/static/js/main.5f4c398f.chunk.js",
+    "main.js.map": "/weather-app-challenge/static/js/main.5f4c398f.chunk.js.map",
+    "runtime-main.js": "/weather-app-challenge/static/js/runtime-main.cbe15fb3.js",
+    "runtime-main.js.map": "/weather-app-challenge/static/js/runtime-main.cbe15fb3.js.map",
+    "static/js/2.20a9a8e0.chunk.js": "/weather-app-challenge/static/js/2.20a9a8e0.chunk.js",
+    "static/js/2.20a9a8e0.chunk.js.map": "/weather-app-challenge/static/js/2.20a9a8e0.chunk.js.map",
+    "index.html": "/weather-app-challenge/index.html",
+    "static/js/2.20a9a8e0.chunk.js.LICENSE.txt": "/weather-app-challenge/static/js/2.20a9a8e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbe15fb3.js",
+    "static/js/2.20a9a8e0.chunk.js",
+    "static/js/main.5f4c398f.chunk.js"
+  ]
+}
